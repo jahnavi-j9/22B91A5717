@@ -1,0 +1,16 @@
+.shortener-page {
+  text-align: center;
+  padding: 2rem;
+}
+
+input[type="url"] {
+  padding: 0.5rem;
+  width: 300px;
+  max-width: 80%;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-left: 10px;
+  cursor: pointer;
+}
